@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>736966606715-cds98be5j3j2skm95tr77hcc8cu94s67.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.736966606715-cds98be5j3j2skm95tr77hcc8cu94s67</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>736966606715-90e6mriea9ac77fk0fc3b0ste163knvn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDTfrBGh9a2QipJUpNkdyOWNYM5t4YGODE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>736966606715</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.webingodash.webingoDash</string>
+	<key>PROJECT_ID</key>
+	<string>webingo-aea87</string>
+	<key>STORAGE_BUCKET</key>
+	<string>webingo-aea87.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:736966606715:ios:725aa7a2211785381687de</string>
+</dict>
+</plist>
