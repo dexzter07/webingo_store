@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.webingo_dash.webingo_dash">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="webingo_dash"
         android:name="${applicationName}"
